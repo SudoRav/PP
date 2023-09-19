@@ -1,0 +1,86 @@
+G:\VS\repos\pp\pp\bin\Debug\pp.exe.config
+G:\VS\repos\pp\pp\bin\Debug\pp.exe
+G:\VS\repos\pp\pp\bin\Debug\pp.pdb
+G:\VS\repos\pp\pp\obj\Debug\pp.csprojAssemblyReference.cache
+G:\VS\repos\pp\pp\obj\Debug\pp.Auth.resources
+G:\VS\repos\pp\pp\obj\Debug\pp.Properties.Resources.resources
+G:\VS\repos\pp\pp\obj\Debug\pp.csproj.GenerateResource.cache
+G:\VS\repos\pp\pp\obj\Debug\pp.csproj.CoreCompileInputs.cache
+G:\VS\repos\pp\pp\obj\Debug\pp.exe
+G:\VS\repos\pp\pp\obj\Debug\pp.pdb
+G:\VS\repos\pp\pp\obj\Debug\pp.Reg.resources
+G:\VS\repos\pp\pp\obj\Debug\pp.Main.resources
+G:\VS\repos\pp\pp\bin\Debug\System.Data.SqlServerCe.dll
+G:\VS\repos\pp\pp\obj\Debug\pp.csproj.CopyComplete
+C:\Users\selme\Google Диск\pp\pp\pp\bin\Debug\pp.exe.config
+C:\Users\selme\Google Диск\pp\pp\pp\bin\Debug\pp.exe
+C:\Users\selme\Google Диск\pp\pp\pp\bin\Debug\pp.pdb
+C:\Users\selme\Google Диск\pp\pp\pp\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\selme\Google Диск\pp\pp\pp\obj\Debug\pp.csprojAssemblyReference.cache
+C:\Users\selme\Google Диск\pp\pp\pp\obj\Debug\pp.Auth.resources
+C:\Users\selme\Google Диск\pp\pp\pp\obj\Debug\pp.Main.resources
+C:\Users\selme\Google Диск\pp\pp\pp\obj\Debug\pp.Properties.Resources.resources
+C:\Users\selme\Google Диск\pp\pp\pp\obj\Debug\pp.Reg.resources
+C:\Users\selme\Google Диск\pp\pp\pp\obj\Debug\pp.csproj.GenerateResource.cache
+C:\Users\selme\Google Диск\pp\pp\pp\obj\Debug\pp.csproj.CoreCompileInputs.cache
+C:\Users\selme\Google Диск\pp\pp\pp\obj\Debug\pp.csproj.CopyComplete
+C:\Users\selme\Google Диск\pp\pp\pp\obj\Debug\pp.exe
+C:\Users\selme\Google Диск\pp\pp\pp\obj\Debug\pp.pdb
+D:\GoogleDisk\pp\pp\pp\obj\Debug\pp.csprojAssemblyReference.cache
+D:\GoogleDisk\pp\pp\pp\obj\Debug\pp.Auth.resources
+D:\GoogleDisk\pp\pp\pp\obj\Debug\pp.Main.resources
+D:\GoogleDisk\pp\pp\pp\obj\Debug\pp.Properties.Resources.resources
+D:\GoogleDisk\pp\pp\pp\obj\Debug\pp.Reg.resources
+D:\GoogleDisk\pp\pp\pp\obj\Debug\pp.csproj.GenerateResource.cache
+D:\GoogleDisk\pp\pp\pp\obj\Debug\pp.csproj.CoreCompileInputs.cache
+D:\GoogleDisk\pp\pp\pp\obj\Debug\pp.exe
+D:\GoogleDisk\pp\pp\pp\obj\Debug\pp.pdb
+D:\GoogleDisk\pp\pp\pp\bin\Debug\pp.exe.config
+D:\GoogleDisk\pp\pp\pp\bin\Debug\pp.exe
+D:\GoogleDisk\pp\pp\pp\bin\Debug\pp.pdb
+D:\GoogleDisk\pp\pp\pp\bin\Debug\System.Data.SqlServerCe.dll
+D:\GoogleDisk\pp\pp\pp\obj\Debug\pp.csproj.CopyComplete
+D:\GoogleDisk\pp\pp\pp\obj\Debug\pp.Forms.createProblem.resources
+D:\GoogleDisk\pp\pp\pp\obj\Debug\pp.Forms.listUser.resources
+D:\GoogleDisk\pp\pp\pp\obj\Debug\pp.Forms.createSubroblem.resources
+C:\Users\selme\Google Диск\pp\pp\pp\obj\Debug\pp.Forms.createProblem.resources
+C:\Users\selme\Google Диск\pp\pp\pp\obj\Debug\pp.Forms.createSubroblem.resources
+C:\Users\selme\Google Диск\pp\pp\pp\obj\Debug\pp.Forms.listUser.resources
+C:\Users\selme\Google Диск\pp\pp\pp\obj\Debug\pp.Forms.listFiles.resources
+D:\GoogleDisk\pp\pp\pp\obj\Debug\pp.Forms.listFiles.resources
+D:\GoogleDisk\star\pp\pp\pp\bin\Debug\pp.exe.config
+D:\GoogleDisk\star\pp\pp\pp\bin\Debug\pp.exe
+D:\GoogleDisk\star\pp\pp\pp\bin\Debug\pp.pdb
+D:\GoogleDisk\star\pp\pp\pp\bin\Debug\System.Data.SqlServerCe.dll
+D:\GoogleDisk\star\pp\pp\pp\obj\Debug\pp.csprojAssemblyReference.cache
+D:\GoogleDisk\star\pp\pp\pp\obj\Debug\pp.Auth.resources
+D:\GoogleDisk\star\pp\pp\pp\obj\Debug\pp.Forms.createProblem.resources
+D:\GoogleDisk\star\pp\pp\pp\obj\Debug\pp.Forms.createSubroblem.resources
+D:\GoogleDisk\star\pp\pp\pp\obj\Debug\pp.Forms.listFiles.resources
+D:\GoogleDisk\star\pp\pp\pp\obj\Debug\pp.Forms.listUser.resources
+D:\GoogleDisk\star\pp\pp\pp\obj\Debug\pp.Main.resources
+D:\GoogleDisk\star\pp\pp\pp\obj\Debug\pp.Properties.Resources.resources
+D:\GoogleDisk\star\pp\pp\pp\obj\Debug\pp.Reg.resources
+D:\GoogleDisk\star\pp\pp\pp\obj\Debug\pp.csproj.GenerateResource.cache
+D:\GoogleDisk\star\pp\pp\pp\obj\Debug\pp.csproj.CoreCompileInputs.cache
+D:\GoogleDisk\star\pp\pp\pp\obj\Debug\pp.csproj.CopyComplete
+D:\GoogleDisk\star\pp\pp\pp\obj\Debug\pp.exe
+D:\GoogleDisk\star\pp\pp\pp\obj\Debug\pp.pdb
+C:\Users\selme\Google Диск\star\pp\pp\pp\bin\Debug\pp.exe.config
+C:\Users\selme\Google Диск\star\pp\pp\pp\bin\Debug\pp.exe
+C:\Users\selme\Google Диск\star\pp\pp\pp\bin\Debug\pp.pdb
+C:\Users\selme\Google Диск\star\pp\pp\pp\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\selme\Google Диск\star\pp\pp\pp\obj\Debug\pp.csprojAssemblyReference.cache
+C:\Users\selme\Google Диск\star\pp\pp\pp\obj\Debug\pp.Auth.resources
+C:\Users\selme\Google Диск\star\pp\pp\pp\obj\Debug\pp.Forms.createProblem.resources
+C:\Users\selme\Google Диск\star\pp\pp\pp\obj\Debug\pp.Forms.createSubroblem.resources
+C:\Users\selme\Google Диск\star\pp\pp\pp\obj\Debug\pp.Forms.listFiles.resources
+C:\Users\selme\Google Диск\star\pp\pp\pp\obj\Debug\pp.Forms.listUser.resources
+C:\Users\selme\Google Диск\star\pp\pp\pp\obj\Debug\pp.Main.resources
+C:\Users\selme\Google Диск\star\pp\pp\pp\obj\Debug\pp.Properties.Resources.resources
+C:\Users\selme\Google Диск\star\pp\pp\pp\obj\Debug\pp.Reg.resources
+C:\Users\selme\Google Диск\star\pp\pp\pp\obj\Debug\pp.csproj.GenerateResource.cache
+C:\Users\selme\Google Диск\star\pp\pp\pp\obj\Debug\pp.csproj.CoreCompileInputs.cache
+C:\Users\selme\Google Диск\star\pp\pp\pp\obj\Debug\pp.csproj.CopyComplete
+C:\Users\selme\Google Диск\star\pp\pp\pp\obj\Debug\pp.exe
+C:\Users\selme\Google Диск\star\pp\pp\pp\obj\Debug\pp.pdb

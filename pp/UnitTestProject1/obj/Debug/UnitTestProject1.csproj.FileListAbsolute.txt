@@ -1,0 +1,32 @@
+C:\Users\selme\Google Диск\pp\pp\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\selme\Google Диск\pp\pp\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\selme\Google Диск\pp\pp\UnitTestProject1\bin\Debug\Microsoft.Analytics.Interfaces.dll
+C:\Users\selme\Google Диск\pp\pp\UnitTestProject1\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+C:\Users\selme\Google Диск\pp\pp\UnitTestProject1\bin\Debug\Microsoft.Analytics.Types.dll
+C:\Users\selme\Google Диск\pp\pp\UnitTestProject1\bin\Debug\Microsoft.Analytics.UnitTest.dll
+C:\Users\selme\Google Диск\pp\pp\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\selme\Google Диск\pp\pp\UnitTestProject1\bin\Debug\pp.exe
+C:\Users\selme\Google Диск\pp\pp\UnitTestProject1\bin\Debug\pp.pdb
+C:\Users\selme\Google Диск\pp\pp\UnitTestProject1\bin\Debug\pp.exe.config
+C:\Users\selme\Google Диск\pp\pp\UnitTestProject1\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\selme\Google Диск\pp\pp\UnitTestProject1\obj\Debug\UnitTestProject1.csprojAssemblyReference.cache
+C:\Users\selme\Google Диск\pp\pp\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CoreCompileInputs.cache
+C:\Users\selme\Google Диск\pp\pp\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CopyComplete
+C:\Users\selme\Google Диск\pp\pp\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\selme\Google Диск\pp\pp\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+D:\GoogleDisk\pp\pp\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+D:\GoogleDisk\pp\pp\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+D:\GoogleDisk\pp\pp\UnitTestProject1\bin\Debug\Microsoft.Analytics.Interfaces.dll
+D:\GoogleDisk\pp\pp\UnitTestProject1\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+D:\GoogleDisk\pp\pp\UnitTestProject1\bin\Debug\Microsoft.Analytics.Types.dll
+D:\GoogleDisk\pp\pp\UnitTestProject1\bin\Debug\Microsoft.Analytics.UnitTest.dll
+D:\GoogleDisk\pp\pp\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\GoogleDisk\pp\pp\UnitTestProject1\bin\Debug\pp.exe
+D:\GoogleDisk\pp\pp\UnitTestProject1\bin\Debug\pp.pdb
+D:\GoogleDisk\pp\pp\UnitTestProject1\bin\Debug\pp.exe.config
+D:\GoogleDisk\pp\pp\UnitTestProject1\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+D:\GoogleDisk\pp\pp\UnitTestProject1\obj\Debug\UnitTestProject1.csprojAssemblyReference.cache
+D:\GoogleDisk\pp\pp\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CoreCompileInputs.cache
+D:\GoogleDisk\pp\pp\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CopyComplete
+D:\GoogleDisk\pp\pp\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+D:\GoogleDisk\pp\pp\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
